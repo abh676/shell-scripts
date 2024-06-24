@@ -20,8 +20,6 @@ ctrl.c to terminate
 
 
 ARRAYS:
-
-
 1.to declare an array:
 	myarray=(1 2 3 4 ge  "fggid ifwij ")
 
