@@ -2,6 +2,8 @@
 
 shell scripting:
 
+
+
 it is a programming language used to create and write scripts. 
 shell is a Linux-based scripting language. 
 
