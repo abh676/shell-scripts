@@ -7,3 +7,11 @@ echo $a+$b
 
 c=$(hostname)
 echo $c
+v
+
+v
+v
+v
+v
+v
+v
