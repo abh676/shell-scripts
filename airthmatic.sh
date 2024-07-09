@@ -1,6 +1,14 @@
 #maths calculations:
 
 
+
+
+
+
+
+
+
+   
 x=10
 y=11
 mul=$x*$y
