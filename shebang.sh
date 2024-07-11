@@ -1,4 +1,6 @@
-#! /bin/bash
+
+   
+    #! /bin/bash
 echo "shebang "/"#!"/" is the symbol used to specify the interpretor used for the command.
 the hash is a symbol from c sharp and the ! is called the bang.
 fo ex.
