@@ -1,11 +1,5 @@
 #!/bin/bash
 
-
-n
-
-
-
-
 myvar="hello world!"
 length=${#myvar}
 echo "lengh of myvar is: $length"
