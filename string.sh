@@ -1,4 +1,5 @@
 #!/bin/bash
+gbbt
 
 myvar="hello world!"
 length=${#myvar}
